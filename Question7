@@ -1,0 +1,4 @@
+Existem muitas diferenças entre o AngularJS e o Angular 2+, sendo as principais
+o uso de TypeScript no Angular 2 no lugar de Javascript padrão, a estrutura
+baseada em componentes e diretivas do Angular 2 e diversas funcionalidades incluidas no Angular 2
+(e.g. inversão de dependência, proxy, templates).

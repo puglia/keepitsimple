@@ -1,0 +1,10 @@
+Passo 1 - criar um branch temporário para o chamado
+Passo 2 - desenvolver a solução no novo branch
+Passo 3 - fazer merge do branch novo com o trunk
+Passo 4 - fazer merge do trunk com o branch de homologação
+Passo 5 - executar smoke test em homologação
+Passo 6 - aguardar a homologação da solução
+Passo 7 - fazer merge do branch de homologação com o branch de produção
+Passo 8 - executar smoke test
+Passo 9 - validar a solução em produção
+Passo 10 - excluir branch criado para o chamado

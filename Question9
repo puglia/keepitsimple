@@ -1,0 +1,6 @@
+
+GET - usado geralmente para fazer consultas, requisitar recursos
+POST - usado geralmente para criar recursos e requer um "payload" (e.g. objeto JSON)
+PUT - usado para enviar dados para o servidor através de um payload (similar ao PUT), porém geralmente usado para atualizar recursos já existentes (idempotente)
+DELETE - usado geralmente para requisitar a exclusão de recursos
+OPTIONS - usado para descobrir os métodos HTTP aceitos por uma URL especifica 

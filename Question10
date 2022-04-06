@@ -1,0 +1,5 @@
+Um job é um processo sequencial a ser executado sobre um dataset na forma de processamento em lote. Geralmente
+opera sobre uma grande quantidade de dados de forma assíncrona e períodica (e.g. a cada 2 horas).
+
+Um step é uma fase de um job. Steps geralmente são independentes entre si e possuem uma ordem/sequência
+que pode ser estática ou dinâmica.

@@ -1,0 +1,4 @@
+
+Maven é uma ferramenta de build utilizada principalmente para sistemas da plataforma Java
+sendo utilizado para descrever e automatizar o processo de build da aplicação java incluind, download
+de dependências, execução de testes unitários e geração do pacote (jar, war etc).
